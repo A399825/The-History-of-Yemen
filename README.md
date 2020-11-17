@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta name = "viewport" content="width=device-width, initial-scale=1">
@@ -35,7 +35,7 @@ Choose your language
 </p>
 
 
-
+     
 
 
 }
@@ -86,8 +86,7 @@ There are so many tribes like
 <li>Hatramout<li/>
 <li>Yemeni Currency<li/>
 _____________________________
-</p>
-<p>
+
 <li>10<li/>
 
 <li>50<li/>

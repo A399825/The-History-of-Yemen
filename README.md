@@ -53,52 +53,10 @@ body {font-family: Arial;}
 </div>
 
 <div id="English" class="tabcontent">
-  <h3>English</h3>
-  <p>Yemen is what
-The history of Yemen is the history that deals with the south of the Arabian Peninsula from the second millennium BC through the Middle Ages until the establishment of the United Republic of Yemen on May 22, 1990. On the land of Yemen, ancient civilizations were established, the most famous of which were Saba, Himyar, the Kingdom of Hadramout, Qataban and Ma'in, the last of which fell in the year 525 AD and knew Yemen. The days of those kingdoms are called Happy Arabia in the writings of classical Greece. The history of ancient Yemen witnessed several religions and beliefs.<p> The sacred paganism of the god Al-Maqha (the Maqah), Athtar, Sin and Rahman, the only god of heaven and earth, and their religion was known as "the Hamiri monotheism" before a number of Christian and Jewish kings embraced [1] After the First World War, Yemen was finally rid of it.</p> Turkish influence The Mutawakkil Kingdom was established in Sana'a and fell after the September 26 revolution, while the southern regions of Yemen were under the influence of the British Empire, and in Aden in particular, until the southern part gained its independence after the October 14 Revolution, and two republics in Yemen established the Yemeni Arab Republic on the ruins of the Mutawakkil Kingdom in the northern parts and the Republic of Yemen People's democracy in the southern parts.<p> The modern era has witnessed several disturbances in Yemen, as Abd al-Rahman al-Aryani stepped down from power due to tribal pressure, and Ibrahim al-Hamdi was assassinated in mysterious circumstances, followed by the assassination of Ahmed al-Ghashmi, the 1986 war, the killing of Abd al-Fattah Ismail, and then the summer war of 1994 between the Yemeni government and the Socialist Party, all of which contributed to weakening Yemen. In 2011, there was a wave of protests against unemployment and a number of constitutional amendments that Ali Abdullah Saleh was intending, which ended with his resignation on controversial terms and the assumption of his deputy, Abd Rabbu Mansour Hadi, as the presidency of the transitional period that will end in 2014, as expected.</p>
-
-There are so many tribes like
-
-Yafea
-Redfan
-Mokala
-Hatramout
-Yemeni Currency
-
-10
-50
-100
-200
-500
-1000
-
-Owner Abdullah Fouad.
-</div>
-
-<script>
-function openCity(evt, cityName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(cityName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-   
-</body>
-</html> 
-
-<h1>اليمن ما هي<h1/>
-
-<main>
-
-<p>
+  <div id="»عربي" class="tabcontent">
+    <h3>تاريخ اليمن</h3>
+  <h3>Yemen History</h3>
+    <p>
 تاريخ اليمن هو التاريخ الذي يتناول جنوب شبه الجزيرة
  العربية من الألفية الثانية ق.م مرورا بالعصور الوسطى حتى قيام الجمهورية اليمنية الموحدة في 22 مايو
   1990. قامت على أرض اليمن حضارات قديمة أشهرها سبأ وحمير ومملكة حضرموت وقتبان ومعين سقط آخرها في العام 525 م وعرفت اليمن أيام تلك الممالك باسم العربية السعيدة
@@ -143,13 +101,59 @@ function openCity(evt, cityName) {
 
 
 
-<p>هدا كل ما عندي و مع سلامه<p/>
-
-
-
 
 
 <p> الصانع عبدالله فواد<p/>
+
+  <p>What Is Yeman History
+The history of Yemen is the history that deals with the south of the Arabian Peninsula from the second millennium BC through the Middle Ages until the establishment of the United Republic of Yemen on May 22, 1990. On the land of Yemen, ancient civilizations were established, the most famous of which were Saba, Himyar, the Kingdom of Hadramout, Qataban and Ma'in, the last of which fell in the year 525 AD and knew Yemen. The days of those kingdoms are called Happy Arabia in the writings of classical Greece. The history of ancient Yemen witnessed several religions and beliefs.<p> The sacred paganism of the god Al-Maqha (the Maqah), Athtar, Sin and Rahman, the only god of heaven and earth, and their religion was known as "the Hamiri monotheism" before a number of Christian and Jewish kings embraced [1] After the First World War, Yemen was finally rid of it.</p> Turkish influence The Mutawakkil Kingdom was established in Sana'a and fell after the September 26 revolution, while the southern regions of Yemen were under the influence of the British Empire, and in Aden in particular, until the southern part gained its independence after the October 14 Revolution, and two republics in Yemen established the Yemeni Arab Republic on the ruins of the Mutawakkil Kingdom in the northern parts and the Republic of Yemen People's democracy in the southern parts.<p> The modern era has witnessed several disturbances in Yemen, as Abd al-Rahman al-Aryani stepped down from power due to tribal pressure, and Ibrahim al-Hamdi was assassinated in mysterious circumstances, followed by the assassination of Ahmed al-Ghashmi, the 1986 war, the killing of Abd al-Fattah Ismail, and then the summer war of 1994 between the Yemeni government and the Socialist Party, all of which contributed to weakening Yemen. In 2011, there was a wave of protests against unemployment and a number of constitutional amendments that Ali Abdullah Saleh was intending, which ended with his resignation on controversial terms and the assumption of his deputy, Abd Rabbu Mansour Hadi, as the presidency of the transitional period that will end in 2014, as expected.</p>
+
+There are so many tribes like
+
+Yafea
+Redfan
+Mokala
+Hatramout
+Yemeni Currency
+
+10
+50
+100
+200
+500
+1000
+
+Owner Abdullah Fouad.
+
+
+
+
+</div>
+
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+   
+</body>
+</html> 
+
+<h1>اليمن ما هي<h1/>
+
+<main>
+
 
 
 

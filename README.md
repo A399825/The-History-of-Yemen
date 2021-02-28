@@ -22,8 +22,7 @@
  العام 2011 شهدت موجة احتجاجات على البطالة وعدد من التعديلات الدستورية التي كان ينويها علي عبد الله صالح انتهت بتنحيه بشروط مثيرة للجدل وتولي نائبه عبد
  ربه منصور هادي رئاسة الفترة الانتقالية التي ستنتهي في العام 2014 كما هو متوقع.
 <p/>
-
-<img src=”(https://wwwnc.cdc.gov/travel/images/map-yemen.png)”>
+<img src="https://wwwnc.cdc.gov/travel/images/map-yemen.png" alt="Trulli" width="350" height="222">
 
 <main/>
 

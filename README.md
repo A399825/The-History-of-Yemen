@@ -22,41 +22,42 @@
  العام 2011 شهدت موجة احتجاجات على البطالة وعدد من التعديلات الدستورية التي كان ينويها علي عبد الله صالح انتهت بتنحيه بشروط مثيرة للجدل وتولي نائبه عبد
  ربه منصور هادي رئاسة الفترة الانتقالية التي ستنتهي في العام 2014 كما هو متوقع.
 <p/>
-<img src="https://wwwnc.cdc.gov/travel/images/map-yemen.png" alt="Trulli" width="350" height="222">
+<img src="https://wwwnc.cdc.gov/travel/images/map-yemen.png" alt="Yemen Map" width="350" height="222">
 
 <main/>
-
 
 <p> هناك الكثير من القباءل مثل <p/>
 <p>
 <ul>
 
 
-<li>يافع<li/>
-<li>ردفان<li/>
-<li>موكلا<li/>
-<li>حطراموت<li/>
+<li>ردفان</li>
+<li>يافع</li>
+<li>موكلا</li>
+<li>حطراموت</li>
 <ul/>
    <p/>
 
 <p>النقود اليمنيه<p/>
+<img src="https://blogs.lse.ac.uk/mec/files/2017/06/Currency.jpg" alt="Yemen Mony" width="350" height="222">
+
 
 <ol>
 
 <li>10</li>
 
-<li>50<li/>
+<li>50</li>
 
-<li>100<li/>
+<li>100</li>
 
-<li>200<li/>
+<li>200</li>
 
-<li>500<li/>
+<li>500</li>
 
-<li>1000<li/>
+<li>1000</li>
 
 
-</ol>
+<ol/>
 
 
 

@@ -1,3 +1,5 @@
+<html>
+ <body>
 <head>
 <script data-ad-client="ca-pub-8920543175457486" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
@@ -22,7 +24,7 @@
  العام 2011 شهدت موجة احتجاجات على البطالة وعدد من التعديلات الدستورية التي كان ينويها علي عبد الله صالح انتهت بتنحيه بشروط مثيرة للجدل وتولي نائبه عبد
  ربه منصور هادي رئاسة الفترة الانتقالية التي ستنتهي في العام 2014 كما هو متوقع.
 <p/>
-<img src="https://wwwnc.cdc.gov/travel/images/map-yemen.png" alt="Yemen Map" width="350" height="222">
+<img src="https://wwwnc.cdc.gov/travel/images/map-yemen.png" alt="Yemen Map" width="500" height="333">
 
 <main/>
 
@@ -39,7 +41,7 @@
    <p/>
 
 <p>النقود اليمنيه<p/>
-<img src="https://blogs.lse.ac.uk/mec/files/2017/06/Currency.jpg" alt="Yemen Mony" width="350" height="222">
+<img src="https://blogs.lse.ac.uk/mec/files/2017/06/Currency.jpg" alt="Yemen Mony" width="500" height="222">
 
 
 <ol>
@@ -65,5 +67,6 @@
 
 
 
-
 <p> الصانع عبدالله فواد<p/>
+</body>
+</html>

@@ -23,7 +23,7 @@
  ربه منصور هادي رئاسة الفترة الانتقالية التي ستنتهي في العام 2014 كما هو متوقع.
 <p/>
 
-<img src="C:\Users\hx665\Desktop\_images"/>
+<img src=”(https://wwwnc.cdc.gov/travel/images/map-yemen.png)”>
 
 <main/>
 

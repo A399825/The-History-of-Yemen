@@ -44,7 +44,7 @@
 
 <ol>
 
-<li>10<li/>
+<li>10</li>
 
 <li>50<li/>
 
@@ -57,7 +57,7 @@
 <li>1000<li/>
 
 
-<ol/>
+</ol>
 
 
 
@@ -67,9 +67,3 @@
 
 
 <p> الصانع عبدالله فواد<p/>
-
-
-
-
-
-<script data-ad-client="ca-pub-8920543175457486" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

@@ -6,6 +6,8 @@
 <h1>تاريخ اليمن<h1/>
  
 <script data-cfasync="false" type="text/javascript" src="https://www.onclickalgo.com/a/display.php?r=4235687"></script>
+<script type="text/javascript" data-adel="atag" src="//acacdn.com/script/atg.js" czid="6049ab9c"></script>
+
 
 
 

@@ -1,13 +1,10 @@
 <html>
  <body>
 <head>
-<meta name="a.validate.01" content="ed76c8ba1bcac2c42c635d62ece0c0e31d1e" />
+<script data-ad-client="ca-pub-8920543175457486" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <h1>تاريخ اليمن<h1/>
  
-<script data-cfasync="false" type="text/javascript" src="https://www.onclickalgo.com/a/display.php?r=4235687"></script>
-<script type="text/javascript" data-adel="atag" src="//acacdn.com/script/atg.js" czid="6049ab9c"></script>
-
 
 
 

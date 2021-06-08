@@ -1,7 +1,7 @@
 <html>
  <head>
-<script data-ad-client="ca-pub-8920543175457486" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
+ <script data-ad-client="ca-pub-8920543175457486" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
  <body>
   
 <h1>تاريخ اليمن<h1/>
